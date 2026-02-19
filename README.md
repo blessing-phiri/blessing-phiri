@@ -1,31 +1,105 @@
 # Hi, I'm Blessing Phiri 👋
 
-**Platform Engineer** building reliable cloud infrastructure with Openshift, Kubernetes, Terraform, Ansible and GitOps.
-Currently at Advanced Communication Systems in Harare, Zimbabwe, where I turn complex infrastructure into stable, scalable internal products.
+**Platform Engineer | RHCA | Kubestronaut | Cloud Native Architect**
+
+I design and build scalable, resilient infrastructure platforms that help engineering teams ship faster. Self-taught, Red Hat Certified Architect, and one of a small number of Kubestronauts on the African continent.
 
 ---
 
-## 🚀 Recent Work
+## 🏆 Certifications
 
-**Hybrid Cloud Migration** | OpenShift, KubeVirt, vSphere  
-Unified VM and container orchestration on OpenShift.
+### Red Hat Certified Architect (RHCA)
+| Cert | Badge |
+|------|-------|
+| Red Hat Certified System Administrator (RHCSA) | ✅ |
+| Red Hat Certified Engineer (RHCE) | ✅ |
+| Red Hat Certified Specialist in Containers (EX188) | ✅ |
+| Red Hat Certified Specialist in OpenShift Administration (EX280) | ✅ |
+| Red Hat Certified Specialist in OpenShift Data Science (EX316) | ✅ |
+| Red Hat Certified Specialist in Managing Automation with AAP (EX467) | ✅ |
 
-**Automated Cloud Infrastructure & CI/CD Pipeline** | AWS | Terraform | Ansible | GitHub Actions | Bash | Nginx | Linux | Git | Netlify  
-Comprehensive DevOps automation project demonstrating Infrastructure as Code, Configuration Management, and Continuous Deployment on AWS.
+### Kubestronaut 🚀
+*Awarded to engineers who hold all 5 core CNCF Kubernetes certifications*
+| Cert | Badge |
+|------|-------|
+| Certified Kubernetes Administrator (CKA) | ✅ |
+| Certified Kubernetes Application Developer (CKAD) | ✅ |
+| Certified Kubernetes Security Specialist (CKS) | ✅ |
+| Kubernetes and Cloud Native Associate (KCNA) | ✅ |
+| Kubernetes and Cloud Native Security Associate (KCSA) | ✅ |
+
+### Cloud
+| Cert | Badge |
+|------|-------|
+| Microsoft Azure Administrator (AZ-104) | ✅ |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Infrastructure:** Kubernetes • OpenShift • Terraform • Ansible  
-**Cloud & CI/CD:** Azure • ArgoCD • Jenkins • Tekton • AWS
-**Monitoring:** Prometheus • Grafana • Alertmanager  
-**Systems:** RHEL • Linux • Bash • SELinux
+**Container Orchestration**
+`Kubernetes` `OpenShift` `Helm` `Kustomize`
+
+**Infrastructure as Code**
+`Terraform` `Ansible` `Ansible Automation Platform`
+
+**CI/CD & GitOps**
+`ArgoCD` `GitHub Actions` `Tekton`
+
+**Cloud**
+`Azure` `AWS` `Oracle Cloud`
+
+**Observability**
+`Prometheus` `Grafana` `Alertmanager`
+
+**Operating Systems**
+`RHEL` `CentOS Stream` `Ubuntu`
 
 ---
 
-## 📫 Connect
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-phiri-614b77209) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:blessingphiri79@gmail.com)
+### 🔧 [OpenShift VoIP Migration](https://github.com/blessing-phiri/openshift-voip-migration)
+Zero-downtime migration of a mission-critical call center from physical servers to OpenShift. Achieved 99.95% availability with full HA/DR capabilities. Supports both VM and container workloads.
+`OpenShift` `Kubernetes` `High Availability` `Disaster Recovery`
 
-💡 Open to conversations about Platform Engineering and Cloud Infrastructure roles.
+### ☁️ [Multi-Cloud Terraform Infrastructure](https://github.com/blessing-phiri/multi-cloud-terraform-infrastructure)
+Production-ready IaC deploying identical infrastructure across AWS, Azure, and Oracle Cloud. Features automated security scanning, cost optimization, and disaster recovery built in.
+`Terraform` `AWS` `Azure` `Oracle Cloud` `Multi-Cloud`
+
+### ⚙️ [Ansible Automation Collection](https://github.com/blessing-phiri/Ansible-Automation-Collection)
+Ansible automation for system provisioning and configuration across dev, test, and production environments. Designed for DevOps and MLOps workflows.
+`Ansible` `AAP` `Configuration Management` `Automation`
+
+### 🔁 [Automated Web App Pipeline](https://github.com/blessing-phiri/automated_webapp_pipeline)
+End-to-end CI/CD pipeline on AWS combining Infrastructure as Code, configuration management, and automated deployments.
+`CI/CD` `AWS` `GitHub Actions` `IaC`
+
+---
+
+## 📊 GitHub Stats
+
+![Blessing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessing-phiri&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-phiri&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌍 About Me
+
+- 📍 Based in Harare, Zimbabwe — working remotely with global teams
+- 🎓 BSc Accounting graduate who transitioned fully into platform engineering
+- ⚡ Self-taught from zero to RHCA + Kubestronaut in under 2 years
+- 💼 Open to remote Platform Engineering and DevOps roles
+- 🌐 [blessingphiri.dev](https://blessingphiri.dev)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-phiri-614b77209/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blessingphiri.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blessing-phiri)
+
+---
+
+*"Infrastructure should be invisible — so reliable that developers forget it exists."*
