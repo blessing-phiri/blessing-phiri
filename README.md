@@ -111,7 +111,7 @@ Production-ready IaC deploying identical infrastructure across AWS, Azure, and O
 
 ## 🌍 About Me
 
-- 📍 Based in Harare, Zimbabwe — working remotely with global teams
+- 📍 Based in Harare, Zimbabwe working remotely with global teams
 - 🎓 BSc Accounting graduate who transitioned fully into platform engineering
 - ⚡ Self-taught from zero to RHCA + Kubestronaut in under 2 years
 - 💼 Open to remote Platform Engineering and DevOps roles
@@ -127,4 +127,4 @@ Production-ready IaC deploying identical infrastructure across AWS, Azure, and O
 
 ---
 
-*"Infrastructure should be invisible — so reliable that developers forget it exists."*
+*"Infrastructure should be invisible, so reliable that developers forget it exists."*
