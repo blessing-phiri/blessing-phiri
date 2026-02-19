@@ -75,10 +75,6 @@ A fully automated pipeline that provisions production-grade AWS infrastructure a
 Zero-downtime migration of a mission-critical call center from physical servers to OpenShift. Achieved 99.95% availability with full HA/DR capabilities. Supports both VM and container workloads.
 `OpenShift` `Kubernetes` `High Availability` `Disaster Recovery`
 
-### ☁️ [Multi-Cloud Terraform Infrastructure](https://github.com/blessing-phiri/multi-cloud-terraform-infrastructure)
-Production-ready IaC deploying identical infrastructure across AWS, Azure, and Oracle Cloud. Features automated security scanning, cost optimization, and disaster recovery built in.
-`Terraform` `AWS` `Azure` `Oracle Cloud` `Multi-Cloud`
-
 ---
 
 
