@@ -64,7 +64,7 @@ I specialize in building the platforms that developers build on Kubernetes, Open
 ## 🚀 Featured Projects
 
 ### 🔁 [Zero-Touch AWS Deployment Pipeline](https://github.com/blessing-phiri/Zero-Touch-AWS-Deployment-Pipeline)
-A fully automated pipeline that provisions production-grade AWS infrastructure and deploys a web application with zero manual intervention — triggered by a single git push.
+A fully automated pipeline that provisions production-grade AWS infrastructure and deploys a web application with zero manual intervention triggered by a single git push.
 `CI/CD` `AWS` `GitHub Actions` `IaC`
 
 ### 🔧 [OpenShift VoIP Migration](https://github.com/blessing-phiri/openshift-voip-migration)
