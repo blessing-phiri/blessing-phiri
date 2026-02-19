@@ -19,7 +19,7 @@ I specialize in building the platforms that developers build on Kubernetes, Open
 | Red Hat Certified Engineer (RHCE) | ✅ |
 | Red Hat Certified Specialist in Containers (EX188) | ✅ |
 | Red Hat Certified Specialist in OpenShift Administration (EX280) | ✅ |
-| Red Hat Certified Specialist in OpenShift Data Science (EX316) | ✅ |
+| Red Hat Certified Specialist in OpenShift OpenShift Virtualization (EX316) | ✅ |
 | Red Hat Certified Specialist in Managing Automation with AAP (EX467) | ✅ |
 
 ### Kubestronaut 🚀
