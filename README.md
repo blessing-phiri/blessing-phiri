@@ -63,6 +63,10 @@ I specialize in building the platforms that developers build on Kubernetes, Open
 
 ## 🚀 Featured Projects
 
+### 🔁 [Zero-Touch AWS Deployment Pipeline](https://github.com/blessing-phiri/Zero-Touch-AWS-Deployment-Pipeline)
+A fully automated pipeline that provisions production-grade AWS infrastructure and deploys a web application with zero manual intervention — triggered by a single git push.
+`CI/CD` `AWS` `GitHub Actions` `IaC`
+
 ### 🔧 [OpenShift VoIP Migration](https://github.com/blessing-phiri/openshift-voip-migration)
 Zero-downtime migration of a mission-critical call center from physical servers to OpenShift. Achieved 99.95% availability with full HA/DR capabilities. Supports both VM and container workloads.
 `OpenShift` `Kubernetes` `High Availability` `Disaster Recovery`
@@ -75,9 +79,6 @@ Production-ready IaC deploying identical infrastructure across AWS, Azure, and O
 Ansible automation for system provisioning and configuration across dev, test, and production environments. Designed for DevOps and MLOps workflows.
 `Ansible` `AAP` `Configuration Management` `Automation`
 
-### 🔁 [Automated Web App Pipeline](https://github.com/blessing-phiri/automated_webapp_pipeline)
-End-to-end CI/CD pipeline on AWS combining Infrastructure as Code, configuration management, and automated deployments.
-`CI/CD` `AWS` `GitHub Actions` `IaC`
 
 ---
 
