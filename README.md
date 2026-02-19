@@ -63,7 +63,7 @@ I specialize in building the platforms that developers build on Kubernetes, Open
 
 ## 🚀 Featured Projects
 
-### ⚙️ [Chaos-Resilient-Pre-Deployment-Simulator](https://github.com/blessing-phiri/Chaos-Resilient-Pre-Deployment-Simulator
+### ⚙️ [Chaos-Resilient-Pre-Deployment-Simulator](https://github.com/blessing-phiri/Chaos-Resilient-Pre-Deployment-Simulator)
 An end-to-end chaos simulation platform that validates microservice resilience **before** code ships to production automated inside CI/CD, with full observability.
 `Python` `Grafana` `Monitoring` `Automation`
 
