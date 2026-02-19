@@ -2,7 +2,11 @@
 
 **Platform Engineer | RHCA | Kubestronaut | Cloud Native Architect**
 
-I design and build scalable, resilient infrastructure platforms that help engineering teams ship faster. Self-taught, Red Hat Certified Architect, and one of a small number of Kubestronauts on the African continent.
+I graduated with an Accounting degree in 2023 and taught myself everything I know about infrastructure. No bootcamp. No CS degree. Just curiosity, a home lab, and a lot of late nights.
+
+In under 2 years I went from zero IT experience to holding both the **RHCA** (Red Hat Certified Architect) and **Kubestronaut** , a combination that very few engineers on the African continent currently hold.
+
+I specialize in building the platforms that developers build on Kubernetes, OpenShift, Ansible automation, and multi-cloud infrastructure. I care deeply about reliability, automation, and making infrastructure invisible enough that developers forget it exists.
 
 ---
 
