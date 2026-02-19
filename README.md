@@ -63,6 +63,10 @@ I specialize in building the platforms that developers build on Kubernetes, Open
 
 ## 🚀 Featured Projects
 
+### ⚙️ [Chaos-Resilient-Pre-Deployment-Simulator](https://github.com/blessing-phiri/Chaos-Resilient-Pre-Deployment-Simulator
+An end-to-end chaos simulation platform that validates microservice resilience **before** code ships to production automated inside CI/CD, with full observability.
+`Python` `Grafana` `Monitoring` `Automation`
+
 ### 🔁 [Zero-Touch AWS Deployment Pipeline](https://github.com/blessing-phiri/Zero-Touch-AWS-Deployment-Pipeline)
 A fully automated pipeline that provisions production-grade AWS infrastructure and deploys a web application with zero manual intervention triggered by a single git push.
 `CI/CD` `AWS` `GitHub Actions` `IaC`
@@ -74,11 +78,6 @@ Zero-downtime migration of a mission-critical call center from physical servers 
 ### ☁️ [Multi-Cloud Terraform Infrastructure](https://github.com/blessing-phiri/multi-cloud-terraform-infrastructure)
 Production-ready IaC deploying identical infrastructure across AWS, Azure, and Oracle Cloud. Features automated security scanning, cost optimization, and disaster recovery built in.
 `Terraform` `AWS` `Azure` `Oracle Cloud` `Multi-Cloud`
-
-### ⚙️ [Ansible Automation Collection](https://github.com/blessing-phiri/Ansible-Automation-Collection)
-Ansible automation for system provisioning and configuration across dev, test, and production environments. Designed for DevOps and MLOps workflows.
-`Ansible` `AAP` `Configuration Management` `Automation`
-
 
 ---
 
