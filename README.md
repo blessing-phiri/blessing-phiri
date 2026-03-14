@@ -16,6 +16,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [acca_exam_buddy](https://github.com/blessing-phiri/acca_exam_buddy) | AI marking assistant for ACCA Audit exams — RAG over real marking schemes, half-mark detection, cited feedback. 90%+ accuracy target. | FastAPI · ChromaDB · DeepSeek R1 · RAG |
+| [sql-data-warehouse-project](https://github.com/blessing-phiri/sql-data-warehouse-project) | Modern data warehouse with ETL pipelines, dimensional modelling, and analytics layer. | SQL Server · ETL · Data Modelling |
 
 ---
 
@@ -26,6 +27,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logoColor=93C5FD)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logoColor=93C5FD)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-1A1A2E?style=flat-square&logoColor=93C5FD)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ## Infrastructure
 
