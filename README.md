@@ -1,46 +1,57 @@
+<div align="center">
+
 # Blessing Phiri
 
-I came to software through accounting.
+![Applied AI Engineer](https://img.shields.io/badge/Applied_AI_Engineer-1A1A2E?style=flat-square&logoColor=93C5FD)
+![CNCF Kubestronaut](https://img.shields.io/badge/CNCF_Kubestronaut-2563EB?style=flat-square&logoColor=white)
+![RHCA](https://img.shields.io/badge/RHCA-EE0000?style=flat-square&logoColor=white)
+![ACCA](https://img.shields.io/badge/ACCA-374151?style=flat-square&logoColor=white)
 
-Before I wrote my first line of Python, I sat ACCA exams, read 
-financial statements, and learned that in finance, precision is not 
-a preference — it is a professional obligation.
-
-That background is now the foundation of everything I build.
+</div>
 
 ---
 
 ## What I build
 
-AI systems that understand financial domain knowledge — not just 
-process text that happens to mention numbers.
-
-My current project is [`acca_exam_buddy`](https://github.com/blessing-phiri/acca_exam_buddy) — an AI marking assistant for ACCA Audit and Assurance exams. It retrieves real marking schemes via RAG, evaluates student answers against the precise boundaries that separate a half-mark from a full-mark, and returns cited, explainable feedback. Targeting 90%+ accuracy. Tutor pilot in preparation.
-
-The system is built on FastAPI, ChromaDB, and DeepSeek R1 via 
-OpenRouter. It handles PDF and Word submissions, scores confidence 
-on every evaluation, and flags uncertain answers for human review.
+| Project | What it does | Stack |
+|---|---|---|
+| [acca_exam_buddy](https://github.com/blessing-phiri/acca_exam_buddy) | AI marking assistant for ACCA Audit exams — RAG over real marking schemes, half-mark detection, cited feedback. 90%+ accuracy target. | FastAPI · ChromaDB · DeepSeek R1 · RAG |
 
 ---
 
-## Stack
+## AI & Data
 
-Python · FastAPI · LangChain · ChromaDB · DeepSeek R1 · OpenRouter  
-Kubernetes · OpenShift · Terraform · AWS · Azure · Oracle Cloud  
-ArgoCD · Ansible · Prometheus · Grafana
+![Python](https://img.shields.io/badge/Python-1A1A2E?style=flat-square&logo=python&logoColor=93C5FD)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1A2E?style=flat-square&logo=fastapi&logoColor=93C5FD)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logoColor=93C5FD)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logoColor=93C5FD)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1A1A2E?style=flat-square&logoColor=93C5FD)
+
+## Infrastructure
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ---
 
 ## Credentials
 
-ACCA · BSc Accounting and Finance  
-RHCA · CNCF Kubestronaut (CKA · CKAD · CKS · KCNA · KCSA)  
-FinOps Foundation Member
+- **CNCF Kubestronaut** — CKA · CKAD · CKS · KCNA · KCSA · fewer than 4,000 globally
+- **RHCA** — Red Hat Certified Architect in Infrastructure
+- **ACCA** — Accounting & Finance
+- **FinOps Foundation** — Cloud financial management
 
 ---
 
-## Currently
+<div align="center">
 
-Building AI systems for finance and financial services.  
-Open to Applied AI Engineering roles — remote, global.  
-[linkedin.com/in/blessingphiri](https://linkedin.com/in/blessingphiri) · blessingphiri.dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/blessingphiri)
+[![Website](https://img.shields.io/badge/Website-1A1A2E?style=flat-square&logoColor=white)](https://blessingphiri.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:blessingphiri79@gmail.com)
+
+</div>
